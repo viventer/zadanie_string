@@ -1,0 +1,19 @@
+Twoim zadaniem jest stworzenie funkcji do formatowania informacji o użytkowniku.
+
+Funkcja na wejściu przyjmuje informacje w takim formacie:
+[imię] [nazwisko] [wiek] [email]
+
+A na wyjściu ma zwrócić stringa w takim formacie:
+imię: [imię]
+nazwisko: [nazwisko]
+wiek: [wiek] lat
+pełnoletni: [tak/nie]
+email: [email]
+
+Cała reszta programu jest gotowa (w pliku twoje_rozwiazanie.txt), wystarczy, że wypełnisz pustą funkcje.
+
+Pamiętaj że w tym samym folderze, co twoje rozwiązanie musi znajdować się plik users.txt. 
+
+Jeśli chcesz możesz zmienić sposób końcowego wyświetlania (oznaczony jako gotowa część) np. zapisać sformatowane dane do innego pliku.
+
+Powodzenia ;)
