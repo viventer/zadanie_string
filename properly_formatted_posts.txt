@@ -1,244 +1,244 @@
 autor: uzytkownik1
-tytu³: Tytul posta pierwszy
+tytuï¿½: Tytul posta pierwszy
 data utworzenia: 1 stycznia 2023 r.
 
 autor: jan_kowalski
-tytu³: Ciekawy temat
+tytuï¿½: Ciekawy temat
 data utworzenia: 15 marca 2023 r.
 
 autor: anna_nowak
-tytu³: Spotted na ulicy
+tytuï¿½: Spotted na ulicy
 data utworzenia: 22 czerwca 2023 r.
 
 autor: marek123
-tytu³: Nowa aktualizacja
-data utworzenia: 10 wrzeœnia 2023 r.
+tytuï¿½: Nowa aktualizacja
+data utworzenia: 10 wrzeï¿½nia 2023 r.
 
 autor: agata87
-tytu³: Co dzisiaj zjeÅ›Ä‡
+tytuï¿½: Co dzisiaj zjeÅ›Ä‡
 data utworzenia: 5 grudnia 2023 r.
 
 autor: kamil_w
-tytu³: Ciekawe odkrycie
+tytuï¿½: Ciekawe odkrycie
 data utworzenia: 18 lutego 2023 r.
 
 autor: ola22
-tytu³: ZdjÄ™cia z wakacji
+tytuï¿½: ZdjÄ™cia z wakacji
 data utworzenia: 30 lipca 2023 r.
 
 autor: karolina_3
-tytu³: Pytanie do ekspertÃ³w
+tytuï¿½: Pytanie do ekspertÃ³w
 data utworzenia: 9 listopada 2023 r.
 
 autor: user007
-tytu³: Tajne dokumenty
+tytuï¿½: Tajne dokumenty
 data utworzenia: 14 maja 2023 r.
 
 autor: jacek45
-tytu³: PiÄ™kny zachÃ³d sÅ‚oÅ„ca
+tytuï¿½: PiÄ™kny zachÃ³d sÅ‚oÅ„ca
 data utworzenia: 20 czerwca 2023 r.
 
 autor: nataliaaaa
-tytu³: Nowy projekt DIY
+tytuï¿½: Nowy projekt DIY
 data utworzenia: 2 marca 2023 r.
 
 autor: andrzej_k
-tytu³: Sportowe wydarzenie
+tytuï¿½: Sportowe wydarzenie
 data utworzenia: 11 sierpnia 2023 r.
 
 autor: wisnia12
-tytu³: Przepis na pyszne ciasto
+tytuï¿½: Przepis na pyszne ciasto
 data utworzenia: 25 stycznia 2023 r.
 
 autor: magda_g
-tytu³: Jutrzejsze wydarzenie
+tytuï¿½: Jutrzejsze wydarzenie
 data utworzenia: 16 kwietnia 2023 r.
 
 autor: patrycjaZ
-tytu³: Znalezisko na strychu
-data utworzenia: 7 paŸdziernika 2023 r.
+tytuï¿½: Znalezisko na strychu
+data utworzenia: 7 paï¿½dziernika 2023 r.
 
 autor: pawel_e
-tytu³: Koncert w mieÅ›cie
-data utworzenia: 29 wrzeœnia 2023 r.
+tytuï¿½: Koncert w mieÅ›cie
+data utworzenia: 29 wrzeï¿½nia 2023 r.
 
 autor: gosia_19
-tytu³: Porady kulinarne
+tytuï¿½: Porady kulinarne
 data utworzenia: 8 grudnia 2023 r.
 
 autor: krzysztof99
-tytu³: Zaginiony kot
+tytuï¿½: Zaginiony kot
 data utworzenia: 12 lipca 2023 r.
 
 autor: iza.m
-tytu³: Travel vlog z egzotycznego kraju
+tytuï¿½: Travel vlog z egzotycznego kraju
 data utworzenia: 6 czerwca 2023 r.
 
 autor: oliwier123
-tytu³: Nowy serial do obejrzenia
+tytuï¿½: Nowy serial do obejrzenia
 data utworzenia: 19 sierpnia 2023 r.
 
 autor: kasia123
-tytu³: Wspomnienia z dzieciÅ„stwa
+tytuï¿½: Wspomnienia z dzieciÅ„stwa
 data utworzenia: 3 kwietnia 2023 r.
 
 autor: adam_nowak
-tytu³: Kulinarna podrÃ³Å¼
+tytuï¿½: Kulinarna podrÃ³Å¼
 data utworzenia: 8 listopada 2023 r.
 
 autor: karolinka
-tytu³: Zimowe inspiracje modowe
+tytuï¿½: Zimowe inspiracje modowe
 data utworzenia: 14 grudnia 2023 r.
 
 autor: user456
-tytu³: Poradnik fotograficzny
+tytuï¿½: Poradnik fotograficzny
 data utworzenia: 21 lipca 2023 r.
 
 autor: lukasz_filmowiec
-tytu³: Recenzja nowego filmu
-data utworzenia: 17 wrzeœnia 2023 r.
+tytuï¿½: Recenzja nowego filmu
+data utworzenia: 17 wrzeï¿½nia 2023 r.
 
 autor: martyna_7
-tytu³: Nowy trening na siÅ‚owni
+tytuï¿½: Nowy trening na siÅ‚owni
 data utworzenia: 30 czerwca 2023 r.
 
 autor: ola_i_igor
-tytu³: Nasza podrÃ³Å¼ do ParyÅ¼a
+tytuï¿½: Nasza podrÃ³Å¼ do ParyÅ¼a
 data utworzenia: 22 maja 2023 r.
 
 autor: kamila12
-tytu³: Zmiany w diecie
+tytuï¿½: Zmiany w diecie
 data utworzenia: 11 marca 2023 r.
 
 autor: programista_2000
-tytu³: RozwiÄ…zanie problemu z pÄ™tlÄ…
+tytuï¿½: RozwiÄ…zanie problemu z pÄ™tlÄ…
 data utworzenia: 2 lutego 2023 r.
 
 autor: marcin88
-tytu³: Aktualizacja oprogramowania
-data utworzenia: 5 paŸdziernika 2023 r.
+tytuï¿½: Aktualizacja oprogramowania
+data utworzenia: 5 paï¿½dziernika 2023 r.
 
 autor: agnieszka_m
-tytu³: MÃ³j ulubiony zespÃ³Å‚
+tytuï¿½: MÃ³j ulubiony zespÃ³Å‚
 data utworzenia: 9 stycznia 2023 r.
 
 autor: natalia_23
-tytu³: Poranny spacer
+tytuï¿½: Poranny spacer
 data utworzenia: 18 lutego 2023 r.
 
 autor: andrzej_m
-tytu³: Kreatywny warsztat
+tytuï¿½: Kreatywny warsztat
 data utworzenia: 14 sierpnia 2023 r.
 
 autor: iza_i_mateusz
-tytu³: Planowanie Å›lubu
+tytuï¿½: Planowanie Å›lubu
 data utworzenia: 7 czerwca 2023 r.
 
 autor: paulina_15
-tytu³: Odkrywanie nowych ksiÄ…Å¼ek
+tytuï¿½: Odkrywanie nowych ksiÄ…Å¼ek
 data utworzenia: 25 kwietnia 2023 r.
 
 autor: radoslaw
-tytu³: FotoreportaÅ¼ z wyjazdu
-data utworzenia: 20 wrzeœnia 2023 r.
+tytuï¿½: FotoreportaÅ¼ z wyjazdu
+data utworzenia: 20 wrzeï¿½nia 2023 r.
 
 autor: monika33
-tytu³: Praca zdalna - plusy i minusy
+tytuï¿½: Praca zdalna - plusy i minusy
 data utworzenia: 12 listopada 2023 r.
 
 autor: filip_wycieczki
-tytu³: GÃ³rska wyprawa
+tytuï¿½: GÃ³rska wyprawa
 data utworzenia: 19 lipca 2023 r.
 
 autor: karolina_zdrowie
-tytu³: Nowe wytyczne zdrowotne
+tytuï¿½: Nowe wytyczne zdrowotne
 data utworzenia: 6 marca 2023 r.
 
 autor: klaudia99
-tytu³: Nauka gotowania
+tytuï¿½: Nauka gotowania
 data utworzenia: 15 stycznia 2023 r.
 
 autor: uzytkownik1
-tytu³: Poczatek przygody
+tytuï¿½: Poczatek przygody
 data utworzenia: 9 grudnia 2023 r.
 
 autor: jan_kowalski
-tytu³: Szybki przepis
+tytuï¿½: Szybki przepis
 data utworzenia: 21 czerwca 2023 r.
 
 autor: anna_nowak
-tytu³: Wyjazd nad morze
+tytuï¿½: Wyjazd nad morze
 data utworzenia: 15 sierpnia 2023 r.
 
 autor: marek123
-tytu³: Aktualizacja systemu
+tytuï¿½: Aktualizacja systemu
 data utworzenia: 3 marca 2023 r.
 
 autor: agata87
-tytu³: Nowa kolekcja
+tytuï¿½: Nowa kolekcja
 data utworzenia: 30 kwietnia 2023 r.
 
 autor: kamil_w
-tytu³: Tajemniczy obiekt
+tytuï¿½: Tajemniczy obiekt
 data utworzenia: 18 stycznia 2023 r.
 
 autor: ola22
-tytu³: Wakacyjne wspomnienia
+tytuï¿½: Wakacyjne wspomnienia
 data utworzenia: 7 listopada 2023 r.
 
 autor: karolina_3
-tytu³: Pytanie do ekspertow
+tytuï¿½: Pytanie do ekspertow
 data utworzenia: 12 lipca 2023 r.
 
 autor: user007
-tytu³: WaÅ¼ne ogÅ‚oszenie
+tytuï¿½: WaÅ¼ne ogÅ‚oszenie
 data utworzenia: 5 maja 2023 r.
 
 autor: jacek45
-tytu³: Odkrywanie lasu
+tytuï¿½: Odkrywanie lasu
 data utworzenia: 26 lutego 2023 r.
 
 autor: nataliaaaa
-tytu³: DzieÅ„ na wsi
-data utworzenia: 14 paŸdziernika 2023 r.
+tytuï¿½: DzieÅ„ na wsi
+data utworzenia: 14 paï¿½dziernika 2023 r.
 
 autor: andrzej_k
-tytu³: Maraton biegaczy
-data utworzenia: 23 wrzeœnia 2023 r.
+tytuï¿½: Maraton biegaczy
+data utworzenia: 23 wrzeï¿½nia 2023 r.
 
 autor: wisnia12
-tytu³: Nowy przepis
+tytuï¿½: Nowy przepis
 data utworzenia: 10 czerwca 2023 r.
 
 autor: magda_g
-tytu³: Przygotowania do Å›wiÄ…t
+tytuï¿½: Przygotowania do Å›wiÄ…t
 data utworzenia: 2 grudnia 2023 r.
 
 autor: patrycjaZ
-tytu³: KsiÄ…Å¼ka miesiÄ…ca
+tytuï¿½: KsiÄ…Å¼ka miesiÄ…ca
 data utworzenia: 19 kwietnia 2023 r.
 
 autor: pawel_e
-tytu³: Koncert rockowy
+tytuï¿½: Koncert rockowy
 data utworzenia: 8 sierpnia 2023 r.
 
 autor: gosia_19
-tytu³: Ciekawe podcasty
+tytuï¿½: Ciekawe podcasty
 data utworzenia: 7 stycznia 2023 r.
 
 autor: krzysztof99
-tytu³: Zaginiony piesek
+tytuï¿½: Zaginiony piesek
 data utworzenia: 30 marca 2023 r.
 
 autor: iza.m
-tytu³: Relacja z podrÃ³Å¼y
-data utworzenia: 12 wrzeœnia 2023 r.
+tytuï¿½: Relacja z podrÃ³Å¼y
+data utworzenia: 12 wrzeï¿½nia 2023 r.
 
 autor: oliwier123
-tytu³: Nowy film na horyzoncie
+tytuï¿½: Nowy film na horyzoncie
 data utworzenia: 25 listopada 2023 r.
 
 autor: kasia123
-tytu³: Ostatnie zakupy
+tytuï¿½: Ostatnie zakupy
 data utworzenia: 17 lutego 2023 r.
 

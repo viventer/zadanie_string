@@ -1,19 +1,22 @@
-Twoim zadaniem jest stworzenie funkcji do formatowania informacji o użytkowniku.
+Twoim zadaniem jest stworzenie funkcji do formatowania informacji o postach.
 
-Funkcja na wejściu przyjmuje informacje w takim formacie:
-[imię] [nazwisko] [wiek] [email]
+Funkcja jako dane na wejściu ma przyjąć linijkę odczytaną z pliku w takim formacie:
+nazwa_użytkownika tytuł_posta data_utworzenia 
+np.:
+jan.kowalski jakiś tytuł posta 09.12.2023
 
-A na wyjściu ma zwrócić stringa w takim formacie:
-imię: [imię]
-nazwisko: [nazwisko]
-wiek: [wiek] lat
-pełnoletni: [tak/nie]
-email: [email]
+A na wyjściu ma zwrócić w takim:
+autor: nazwa_użytkownika
+tytuł: tytuł_posta
+data: data_utworzenia
+np.:
+autor: jan.kowalski 
+tytuł: jakiś tytuł posta
+data: 9 grudnia 2023 r.
 
-Cała reszta programu jest gotowa (w pliku twoje_rozwiazanie.txt), wystarczy, że wypełnisz pustą funkcje.
+Oprócz funkcji cała reszta kodu jest gotowa w pliku twoje_rozwiazanie.txt, wystarczy, że wypełnisz funkcję. 
+Po wywołaniu kodu w konsoli otrzymasz informacje, czy zadziałał prawidłowo.
 
-Pamiętaj że w tym samym folderze, co twoje rozwiązanie musi znajdować się plik users.txt. 
-
-Jeśli chcesz możesz zmienić sposób końcowego wyświetlania (oznaczony jako gotowa część) np. zapisać sformatowane dane do innego pliku.
+Pamiętaj aby wszystkie pliki znajdowały się w tym samym folderze. 
 
 Powodzenia ;)
